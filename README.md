@@ -19,3 +19,5 @@ Use this as a starting point to complete the WDD 231 personal activity. We will 
 
 ## Netlify URL:
 https://app.netlify.com/projects/spectacular-froyo-252787/overview
+
+https://spectacular-froyo-252787.netlify.app/
