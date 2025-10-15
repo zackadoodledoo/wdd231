@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+@import "partials/variables.css";
+@import "partials/global.css";
+@import "partials/header.css";
+@import "partials/footer.css";
+@import "partials/blocks.css";
+@import "partials/utilities.css";
+@import "home.css";
+=======
 :root {
   --bs-black: #000;
   --bs-brown: #393423;
@@ -284,3 +293,4 @@ a:hover {
   background-color: var(--bs-black);
   fill: white;
 } */
+>>>>>>> 145ce671b96c8fc98175472bd6d31ebbd9764fd7
